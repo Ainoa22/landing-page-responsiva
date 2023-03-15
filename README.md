@@ -1,1 +1,2 @@
-# landing-page-responsiva
+# Landing-page-responsiva
+Página web de hambúrger.
